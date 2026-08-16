@@ -1,0 +1,15 @@
+# Virtual Environments
+renv/
+
+
+# Python Cache (Faltu system files)
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Files (Mac/Windows ka kachra)
+.DS_Store
+Thumbs.db
